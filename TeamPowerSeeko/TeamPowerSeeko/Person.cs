@@ -8,5 +8,8 @@ namespace TeamPowerSeeko
 {
     class Person
     {
+        public string name { get; set; }
+        public string address { get; set; }
+
     }
 }
